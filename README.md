@@ -8,7 +8,7 @@ Thanks for checking out this front-end coding challenge.
 
 \*# Frontend Mentor - Mortgage repayment calculator
 
-## live Link : - [Netlify](https://silly-brioche-fc8d60.netlify.app/)
+## live Link : - [Netlify](https://scintillating-valkyrie-b28ecb.netlify.app/)
 
 ##### Successful picture below
 
@@ -18,7 +18,7 @@ Thanks for checking out this front-end coding challenge.
 
 ## Deploying my project
 
-- [GitHub Pages](https://github.com/masum-hosen/Contact-form-Valid)
-- [Netlify](https://silly-brioche-fc8d60.netlify.app/)
+- [GitHub Pages](https://github.com/masum-hosen/Mortgage-repayment-calculator-solution-Frontend-Mentor-)
+- [Netlify](https://scintillating-valkyrie-b28ecb.netlify.app/)
 
 **Have fun building!** 🚀
